@@ -1,0 +1,102 @@
+id: 3b6ca781b40446fc87d9bae7a4070190
+annotation_type: Language
+revision: '00001'
+annotations:
+  1c96a8bcb242438e8eef842d37f99f78:
+    span:
+      start: 38
+      end: 152
+      errors: null
+    metadata: null
+    language: en
+  d15014e0c74a4123a80f8ba968da8200:
+    span:
+      start: 204
+      end: 249
+      errors: null
+    metadata: null
+    language: en
+  0d2b5e061f1a483fbd3cd493e15c8971:
+    span:
+      start: 276
+      end: 1318
+      errors: null
+    metadata: null
+    language: en
+  9146514cd1fd4e5f9d40beba55ac37c4:
+    span:
+      start: 30779
+      end: 30828
+      errors: null
+    metadata: null
+    language: en
+  ea2b37807355497a9acb62fb5f2c47eb:
+    span:
+      start: 31449
+      end: 31486
+      errors: null
+    metadata: null
+    language: en
+  6aae7e7eb95a413baea0e36c76139c3c:
+    span:
+      start: 166229
+      end: 166278
+      errors: null
+    metadata: null
+    language: en
+  21129218e41a4ab49c1456178d5b4a96:
+    span:
+      start: 225174
+      end: 225278
+      errors: null
+    metadata: null
+    language: en
+  179b078db9db4ff5aa57009582ebce16:
+    span:
+      start: 225935
+      end: 226027
+      errors: null
+    metadata: null
+    language: en
+  df2bc956f1df42699015df44442a2ea4:
+    span:
+      start: 227258
+      end: 227339
+      errors: null
+    metadata: null
+    language: en
+  78aa8a5632df45fb9083848ec90916a6:
+    span:
+      start: 228522
+      end: 228554
+      errors: null
+    metadata: null
+    language: en
+  e9946c22a7714088ab78c1f87e0320e3:
+    span:
+      start: 229189
+      end: 229214
+      errors: null
+    metadata: null
+    language: en
+  51ac6abc58c745539af25a452bc0050b:
+    span:
+      start: 229831
+      end: 229904
+      errors: null
+    metadata: null
+    language: en
+  6e3d801e8eca42b18b4e472f3f97cd6d:
+    span:
+      start: 233013
+      end: 233058
+      errors: null
+    metadata: null
+    language: en
+  36ede28b011e40069b9e3bdc4303021a:
+    span:
+      start: 558294
+      end: 558317
+      errors: null
+    metadata: null
+    language: en
